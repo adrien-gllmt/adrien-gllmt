@@ -5,7 +5,8 @@
 </div>
 
 ## ❓ Who am I ?
-I'm in my final year studying mobile and web development at the UIT in Troyes (France). I'm currently an apprentice at ATOL, a well-known french corporation selling glasses and hearing aids throughout the country, where I work as a full-stack developer.  
+I'm a french full-stack developer who graduated from the UIT of Troyes (France). I previously worked at ATOL, a well-known french corporation selling glasses and hearing aids throughout the country, as a full-stack developer.  
+I am currently working as a full-stack and software developer in a company managing performers rights and payments.  
   
 I really care about accessibility and SEO, which are key points when shipping sites. Although I'm much more specialized in front-end development, I really enjoy designing APIs and working with some back-end stacks.  
 My formation also allows me to lay on a wide skillset, from graphic design to UX to communication.  
