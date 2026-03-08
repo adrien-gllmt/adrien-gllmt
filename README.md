@@ -5,13 +5,13 @@
 </div>
 
 ## ❓ Who am I ?
-I'm a french full-stack developer who graduated from the UIT of Troyes (France). I previously worked at ATOL, a well-known french corporation selling glasses and hearing aids throughout the country, as a full-stack developer.  
-I am currently working as a full-stack and software developer in a company managing performers rights and payments.  
+I'm a french full-stack developer graduated from the UIT of Troyes (France). I previously worked at ATOL, a well-known french corporation selling glasses and hearing aids throughout the country, as a full-stack developer.  
+I am currently working as a full-stack and software developer in a PMO.  
   
-I really care about accessibility and SEO, which are key points when shipping sites. Although I'm much more specialized in front-end development, I really enjoy designing APIs and working with some back-end stacks.  
+I really care about accessibility and SEO, which are key points when shipping websites. Although I'm much more specialized in front-end development, I really enjoy designing simple APIs and working with back-end stacks.  
 My formation also allows me to lay on a wide skillset, from graphic design to UX to communication.  
   
-I'm confident in my abilities and always try my best !  
+Lately I've been a lot more involved in software development which is a brand new field for me. I still have a lot to learn !  
   
 You can find me here :  
 <div id="header" align="center">
@@ -30,8 +30,9 @@ You can find me here :
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C# logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="40" height="40" />
 </div>
@@ -42,11 +43,10 @@ You can find me here :
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Ruby on Rails logo" width="40" height="40" />
   <img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png" alt="Flask logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="40" height="40" />
   <img src="https://www.svgviewer.dev/static-svgs/476516/symfony.svg" alt="Symfony logo" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Symfony logo" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind logo" width="40" height="40" />
 </div>
 
 ### 💾 Server :  
@@ -71,7 +71,6 @@ You can find me here :
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS logo" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" alt="PHPStorm logo" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/RubyMine_Icon.svg" alt="RubyMine logo" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" alt="Rider logo" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ logo" width="40" height="40" />
 </div>
