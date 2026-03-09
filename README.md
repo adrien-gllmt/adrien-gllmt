@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋</h1>  
 
 ## ❓ Who am I ?  
-I'm a french full-stack developer graduated from the UIT of Troyes (France). I previously worked at ATOL, a well-known french corporation in the field of optics, as a full-stack developer.  
+I'm a french full-stack developer graduated from the UIT of Troyes (France). I previously worked at ATOL, a well-known french cooperative in the field of optical equipment, as a full-stack developer.  
 I am currently working as a full-stack and software developer in a PMO.  
   
 I really care about accessibility and SEO, which are key points when shipping websites. Although I'm much more specialized in front-end development, I definitely enjoy designing simple APIs and working with back-end stacks.  
